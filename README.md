@@ -27,6 +27,13 @@ International Energy Agency (IEA)
 ## Top10 Tweets with more likes ❤️
 ![tpo10_likes](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/a95e6a6768baf990212dcbe434578ccfab9e9f0b/images/top10_tweetsLike.png)
 
+## Top10 Hashtags
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0246af568a4b45ec70822590e606f57e80c551b/images/TopHashtag.png"  width="60%" height="30%">
+
+
+## Top10 Mentions
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/main/images/TopMentions_2charts.jpg">
+
 
 # Sentiment Analysis: Model outputs
 
@@ -48,7 +55,7 @@ International Energy Agency (IEA)
 
 ## 5. WordCloud
 
-<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/Wordcloud_all_tweets.png"  width="60%" height="30%">
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/Wordcloud_all_tweets.png" width="60%" height="30%">
 
 # Process
 
