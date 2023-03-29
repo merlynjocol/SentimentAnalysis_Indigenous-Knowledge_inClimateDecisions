@@ -2,7 +2,7 @@
 
 ## Objetive: 
 
-In this study, I used five distinct natural language processing models to collect and categorize Twitter user opinions about Indigenous Knowledge in the main climate decision spaces.
+This study is done for the WOMER citizen science project to explore opinions and participation in social media.  I used five distinct natural language processing models to collect and categorize Twitter user opinions about Indigenous Knowledge in the main climate decision spaces.
 
 ## Main climate decision spaces included in the analysis
 
