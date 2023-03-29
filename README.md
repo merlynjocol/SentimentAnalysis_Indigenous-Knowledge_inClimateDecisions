@@ -1,4 +1,4 @@
-# Twitter Analysis of the Indigenous Participation in the main Climate Decisions spaces
+# Sentiment Analysis of the tweets about Indigenous Participation in the main Climate Decisions spaces
 
 Objetive: 
 
