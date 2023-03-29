@@ -22,9 +22,13 @@ Organisation for Economic Cooperation and Development (OECD)
 International Energy Agency (IEA)
 ```
 
+# Twitter Analysis
+
+## Top10 Tweets with more likes ❤️
+![tpo10_likes](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/a95e6a6768baf990212dcbe434578ccfab9e9f0b/images/top10_tweetsLike.png)
 
 
-# Model outputs
+# Sentiment Analysis: Model outputs
 
 ## 1. VADER (Valence Aware Dictionary and sentiment Reasoner)
 
