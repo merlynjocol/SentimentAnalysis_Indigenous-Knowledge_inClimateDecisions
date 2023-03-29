@@ -26,13 +26,25 @@ International Energy Agency (IEA)
 
 # Model outputs
 
-## VADER (Valence Aware Dictionary and sentiment Reasoner)
+## 1. VADER (Valence Aware Dictionary and sentiment Reasoner)
+
+![vader1](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/c06c48b62cf3f615f066bc4c2e228ae92a66dcfb/images/vader_results.jpg)
 
 
 
+## 2. Roberta 
+![roberta](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/5b2e66d2ead4350617fe488463697f368a754786/images/Roberta_sentiment_analysis.png)
 
+## 3. Transformers
 
+![transformers](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/transformers_sentiment_a.png)
 
+## 4. TextBlob
+![textblob](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/TextBlob_Sentiment_analysis.png)
+
+## 5. WordCloud
+
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/Wordcloud_all_tweets.png"  width="60%" height="30%">
 
 # Process
 
