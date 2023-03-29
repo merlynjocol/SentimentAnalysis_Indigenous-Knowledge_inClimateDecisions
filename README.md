@@ -1,5 +1,8 @@
 # Sentiment Analysis of the tweets about Indigenous Knowledge in the main Climate Decisions spaces
 
+<img src="https://www.iitc.org/wp-content/uploads/COP-26-Traditional-Knowledgeholders-session.jpg"  width="60%" height="30%">
+Source: https://www.iitc.org/
+
 ## Objetive: 
 
 This study is done for the WOMER citizen science project to explore opinions and participation in social media.  I used five distinct natural language processing models to collect and categorize Twitter user opinions about Indigenous Knowledge in the main climate decision spaces.
