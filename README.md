@@ -38,10 +38,15 @@ International Energy Agency (IEA)
 ## Top10 Hashtags
 <img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0246af568a4b45ec70822590e606f57e80c551b/images/TopHashtag.png"  width="60%" height="30%">
 
+![tpo10_hashtag](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0203b372aba9b94b779bbb811ba5aa639c86de6/images/TextAnalysis_More_Hashtags.png)
 
 ## Top10 Mentions
 <img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/main/images/TopMentions_2charts.jpg">
 
+
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0203b372aba9b94b779bbb811ba5aa639c86de6/images/TextAnalysis_More_mentions.png">
+
+<img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0203b372aba9b94b779bbb811ba5aa639c86de6/images/TextAnalysis_More_mentions_wordcloud.png">
 
 # Sentiment Analysis: Model outputs
 
