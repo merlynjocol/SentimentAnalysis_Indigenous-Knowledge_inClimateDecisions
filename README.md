@@ -1,4 +1,5 @@
-# Sentiment Analysis of the tweets about Indigenous Knowledge in the main Climate Decisions spaces
+# Sentiment Analysis of Tweets on Indigenous participation in the main Climate Decision-making spaces. 
+## Period: 2009 - 2023
 
 <img src="https://www.iitc.org/wp-content/uploads/COP-26-Traditional-Knowledgeholders-session.jpg"  width="60%" height="30%">
 Source: https://www.iitc.org/
