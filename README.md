@@ -1,4 +1,5 @@
-# Sentiment Analysis of Tweets mention Indigenous Knowledge in the main Climate Decision-making Spaces. 
+# Text and Sentiment Analysis of Tweets
+# Opinions on Indigenous Knowledge in the main Climate Decision-making Spaces. 
 ## Period of analysis: 2009 - 2023
 
 <img src="https://www.iitc.org/wp-content/uploads/COP-26-Traditional-Knowledgeholders-session.jpg"  width="60%" height="30%">
@@ -6,24 +7,27 @@ Source: https://www.iitc.org/
 
 ## Objetive: 
 
-This study is done for the WOMER citizen science project to explore opinions and participation in social media.  I used five distinct natural language processing models to collect and categorize Twitter user opinions about Indigenous Knowledge in the main climate decision spaces.
+This study is done ubnder the WOMER project to explore opinions, entities and interest on Indigenous Knowledge in the main Climate Decision-making Spaces.
+For the sentiment analysis, I used four distinct natural language processing models to collect and categorize Twitter user opinions about Indigenous Knowledge in the main climate decision spaces.
+You can find the libraries, approach and some early results in this file. 
+For a more detailed analysis, please check the files of the different analysis done (text and sentiment analysis).
 
 ## Main climate decision spaces included in the analysis
 
 ```
-UN Convention on Biological Diversity (CBD) 
-Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)
-Paris Agreement
-Kyoto Protocol
-Conferences of the Parties (COP)
-Subsidiary Body for Scientific & Technological Advice (SBSTA)
-Subsidiary Body for Implementation (SBI)
-Intergovernmental Panel on Climate Change (IPCC)
-G8 
-G20
-Major Economies Forum on Energy and Climate (MEF)
-Organisation for Economic Cooperation and Development (OECD)
-International Energy Agency (IEA)
+- UN Convention on Biological Diversity (CBD) 
+- Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)
+- Paris Agreement
+- Kyoto Protocol
+- Conferences of the Parties (COP)
+- Subsidiary Body for Scientific & Technological Advice (SBSTA)
+- Subsidiary Body for Implementation (SBI)
+- Intergovernmental Panel on Climate Change (IPCC)
+- G8 
+- G20
+- Major Economies Forum on Energy and Climate (MEF)
+- Organisation for Economic Cooperation and Development (OECD)
+- International Energy Agency (IEA)
 ```
 
 # Results Text Analysis
