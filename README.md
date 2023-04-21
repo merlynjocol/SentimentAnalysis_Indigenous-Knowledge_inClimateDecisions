@@ -32,6 +32,9 @@ International Energy Agency (IEA)
 ## Top10 Tweets with more likes ❤️
 ![tpo10_likes](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/a95e6a6768baf990212dcbe434578ccfab9e9f0b/images/top10_tweetsLike.png)
 
+![tpo10_likes](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/217bfb5eed81ff8400db9329d9dd71619675dd17/images/TextAnalysis_ind_more_likes.png)
+
+
 ## Top10 Hashtags
 <img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0246af568a4b45ec70822590e606f57e80c551b/images/TopHashtag.png"  width="60%" height="30%">
 
