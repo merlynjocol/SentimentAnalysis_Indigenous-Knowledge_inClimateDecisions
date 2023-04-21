@@ -26,7 +26,7 @@ Organisation for Economic Cooperation and Development (OECD)
 International Energy Agency (IEA)
 ```
 
-# Results Twitter Analysis
+# Results Text Analysis
 
 
 ## Top10 Tweets with more likes ❤️
@@ -46,7 +46,7 @@ International Energy Agency (IEA)
 <img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/f0203b372aba9b94b779bbb811ba5aa639c86de6/images/TextAnalysis_More_mentions.png">
 
 
-# Sentiment Analysis: Model outputs
+# Results of the Sentiment Analysis: Model outputs
 
 ## 1. VADER (Valence Aware Dictionary and sentiment Reasoner)
 
@@ -64,7 +64,10 @@ International Energy Agency (IEA)
 ## 4. TextBlob
 ![textblob](https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/TextBlob_Sentiment_analysis.png)
 
-## 5. WordCloud
+
+# Results of the frequent words used in tweets 
+
+## Model WordCloud
 
 <img src="https://github.com/merlynjocol/SentimentAnalysis_Indigenous-Knowledge_inClimateDecisions/blob/b2ac8115e93703a4310eda1ddb46d9b162a2c92f/images/Wordcloud_all_tweets.png" width="60%" height="30%">
 
