@@ -30,7 +30,7 @@ For a more detailed analysis, please check the files of the different analysis d
 - International Energy Agency (IEA)
 ```
 
-# Results Text Analysis
+# Results
 
 
 ## Top10 Tweets with more likes ❤️
