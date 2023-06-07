@@ -1,4 +1,4 @@
-# Text and Sentiment Analysis of Tweets
+# Text mining and Sentiment Analysis of Tweets
 # Opinions on Indigenous Knowledge in the main Climate Decision-making Spaces. 
 ## Period of analysis: 2009 - 2023
 
